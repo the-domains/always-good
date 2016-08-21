@@ -1,3 +1,4 @@
+layout_spectrum: 0.8105584930162877
 typography_spectrum: 0.34554146882146597
 color:
   brandStrength: 0.2240719310939312
@@ -10,8 +11,4 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.8105584930162877
-author:
-  name: Joseph Yeo
-  email: klee.yeo@gmail.com
 name: always good
