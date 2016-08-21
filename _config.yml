@@ -1,0 +1,14 @@
+layout_spectrum: 0.8105584930162877
+typography_spectrum: 0.34554146882146597
+color:
+  brandStrength: 0.2240719310939312
+  lightness: 0.8979328437708318
+  saturation: 0.5358144086785614
+  rhythmicContrast: 0.9442080992739648
+  brandColors:
+    - '#FFFFFF'
+    - '#060807'
+    - '#9FB3B4'
+    - '#7F7573'
+    - '#C6454A'
+name: always good
